@@ -33,7 +33,8 @@
     "require": {
         "php": "^8.0",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^7.8"
+        "guzzlehttp/guzzle": "^7.8",
+        "alexjluna/sms-php-client": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
