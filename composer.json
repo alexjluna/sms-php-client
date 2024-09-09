@@ -1,5 +1,5 @@
 {
-    "name": "alexjluna/altiria-sms-php-client",
+    "name": "alexjluna/sms-php-client",
     "description": "Cliente PHP para el envío de SMS con Altiria",
     "type": "library",
     "keywords": [
