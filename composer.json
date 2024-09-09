@@ -60,7 +60,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alexjluna/altiria-sms-php-client"
+            "url": "https://github.com/alexjluna/sms-php-client"
         }
     ]
 
